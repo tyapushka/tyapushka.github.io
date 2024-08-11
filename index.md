@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 title: "AttaliTech | Expert R-Shiny Consulting"
 css:
@@ -15,15 +15,15 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# Фатум {#title}
 
-## R-Shiny Consulting {#subtitle}
+## Аудит и консалтинг {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+#### Член СРО ААС [ОРНЗ 12206014536](https://sroaas.ru/firms/12206014536/?tab=tab1) {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
-  Contact Us
+  Свяжитесь с нами
 </a>
 {: .actionbtn-out :}
 
@@ -37,30 +37,30 @@ ext-js:
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">What We Offer</div>
+    <div class="section-title">Наши услуги</div>
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <div class="service-text">Обязательный и инициативный аудит</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Group workshops and private tutoring</div>
+        <div class="service-text">Консалтинг по вопросам бухучета и налогообложения</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <div class="service-text">Ведение налоговых споров в судах</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <div class="service-text">Внедрение IT в области бухучета</div>
       </div>
     </div>
 
     <a href="/contact" class="actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
-      Contact Us
+      Свяжитесь с нами
     </a>
   </div>
 </div>
@@ -69,9 +69,9 @@ ext-js:
 
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
-    <div class="section-title">About Us</div>
+    <div class="section-title">О нас</div>
     <div id="aboutus-text">
-      AttaliTech was launched in 2016 as the world's <b>first</b> Shiny consulting firm. The goal was simple: provide a one-stop shop for any and all of your Shiny needs, while adhering to the <b>highest standards</b>. Today, AttaliTech is a <b>global leader</b> in providing top quality R/Shiny services and is trusted by over 100 companies worldwide. We take pride in knowing you won't get better quality anywhere else.<br/><br/><b>We're certain of it.</b>
+     Наша компания была основана в 2021. В следующем году вступила в СРО ААС и начала проводить аудит.
     </div>
   </div>
 </div>
@@ -80,21 +80,21 @@ ext-js:
 
 <div id="values-out" class="page-section cut2">
   <div id="values">
-	  <div class="section-title">Our Values</div>
+	  <div class="section-title">Наши ценности</div>
     <div id="values-text">
-      At AttaliTech, we care about good code, good user experience, and doing things <b>right</b>.<br/><br/>
-      We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
+      Мы заботимся о качестве наших услуг. 
+      Строго следим за выполнением требований МСА, Кодекса профессиональной этики аудиторов и иных применимых НПА.
     </div>
     <a href="/contact" class="actionbtn">
-      Work With Us
+      Работайте с нами
     </a>
   </div>
 </div>
 
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
-    <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
+    <div class="section-title">Клиенты</div>
+    <div id="clients-subtitle">За период работы фирмы мы приобрели более 30 клиентов.</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
@@ -109,14 +109,8 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">About the Founder</div>
-	<div id="aboutme-list" markdown="1">
-{% for info in site.data.main_info %}
-{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
-<span class="about-content">{{ info.content }}</span>
-{: .about-text }
-{% endfor %}
-</div>
+       <div id="auditor-subtitle">...</div>
+   
   </div>
 </div>
 
@@ -125,7 +119,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Sourced Shiny Apps
+      Документы
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
@@ -143,11 +137,11 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">Take Your Shiny Apps to the Highest Level</div><br/>
+    <div class="section-title">Аудит и консалтинг в СПб</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
+    Свяжитесь с нами
   </a>
 </div>
 

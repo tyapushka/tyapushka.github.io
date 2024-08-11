@@ -1,22 +1,19 @@
-remote_theme: daattali/beautiful-jekyll
-
-
-title: AttaliTech
-
-author: AttaliTech Ltd
+﻿remote_theme: daattali/beautiful-jekyll
+title: Fatum
+author: Fatum Ltd
 
 navbar-links:
-  Services: "/#services"
-  About Us: "/#aboutus"
-  Clients: "/#clients"
-  Open-Source: "/#portfolio"
-  Contact Us: "/contact"
+  #Услуги: "/#services"
+  #О нас: "/#aboutus"
+  #Клиент: "/#clients"
+  #Открытые источники: "/#portfolio"
+  Свяжитесь с нами: "/contact"
 
 title-img: /assets/img/attalitech-logo-light.png
 
 site-css: "/assets/css/attalitech.css"
 
-keywords: "r shiny,shiny developer,shiny consultant,r consultant,shiny apps"
+keywords: "audit, consultant, consultant, audit apps, dax, аудит, консалтинг, бухгалтерия"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -24,19 +21,19 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "@daattali?sub_confirmation=1"
-  patreon: DeanAttali
-  telephone: +16042274469
+  email: "info@auditspb.com"
+  github: ""
+  #twitter: daattali
+  #calendly: "attalitech/meeting"
+  #youtube: "@daattali?sub_confirmation=1"
+  #patreon: DeanAttali
+  telephone: +79219342436
 
-url-pretty: "AttaliTech.com"
+url-pretty: "auditspb.com"
 
 footer-img: "/assets/img/footer-bg.png"
 
-gtag: "G-Y80XD5LXBY"
+#gtag: "G-Y80XD5LXBY"
 
 timezone: "America/Toronto"
 markdown: kramdown
@@ -51,9 +48,9 @@ defaults:
       path: ""
     values:
       layout: "page"
-      footer-extra: custom_footer.html
+      #footer-extra: custom_footer.html
       nav-short: true
-      share-description: "AttaliTech provides world-class R/Shiny consulting and development services. We develop enterprise Shiny apps, perform code audits, build professional R packages, and more. Led by renowned expert Dean Attali."
+      share-description: ""
       share-img: "/assets/img/attalitech.png"
 
 exclude:
