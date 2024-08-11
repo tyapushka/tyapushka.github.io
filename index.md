@@ -123,17 +123,27 @@ ext-js:
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
-	    <div class="shinyapp">
-          <a class="applink" href="{{ app.url }}">
+        <div class="shinyapp">   
+          {% assign pdf_name = app.img | remove: '.png' | remove: '.jpg' | remove: '.jpeg' | remove: '.gif' | append: '.pdf' %}
+         
+          {% if pdf_name contains ".pdf" %}
+            <a class="applink" href="/assets/img/screenshots/{{ pdf_name }}" target="_blank">
+          {% else %}
+            <a class="applink" href="{{ app.url }}">
+          {% endif %}
             <img class="appimg" src="/assets/img/screenshots/{{ app.img }}" />
             <div class="apptitle">{{ app.title }}</div>
             <div class="appdesc">{{ app.description }}</div>
           </a>
         </div>
-	  {% endfor %}
+      {% endfor %}
     </div>
   </div>
 </div>
+
+
+
+
 
 <div id="cta-out" class="page-section">
   <div id="cta">
