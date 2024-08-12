@@ -1,6 +1,6 @@
 ﻿---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "Fatum Ltd"
 css:
   - /assets/css/index.css
 ext-css:
