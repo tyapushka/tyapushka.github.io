@@ -79,16 +79,35 @@ ext-js:
 <div class="cut-buffer values-buffer"></div>
 
 <div id="values-out" class="page-section cut2">
+
+<div id="portfolio-out" class="page-section grey-section">
   <div id="values">
-	  <div class="section-title">Наши ценности</div>
-    <div id="values-text">
-      Мы заботимся о качестве наших услуг. 
-      Строго следим за выполнением требований МСА, Кодекса профессиональной этики аудиторов и иных применимых НПА.
+    <div class="section-title">Наши сертификаты</div>
+    <div id="shinyapps-big">
+      {% for value in site.data.values %}
+        <div class="shinyapp">   
+          {% assign pdf_name = value.img | remove: '.png' | remove: '.jpg' | remove: '.jpeg' | remove: '.gif' | append: '.pdf' %}
+          
+          {% if pdf_name contains ".pdf" %}
+            <a class="applink" href="/assets/img/serts/{{ pdf_name }}" target="_blank">
+          {% else %}
+            <a class="applink" href="{{ value.url }}">
+          {% endif %}
+            <img class="appimg" src="/assets/img/serts/{{ value.img }}" />
+            <div class="apptitle">{{ value.title }}</div>
+            <div class="appdesc">{{ value.description }}</div>
+          </a>
+        </div>
+      {% endfor %}
     </div>
     <a href="/contact" class="actionbtn">
       Работайте с нами
     </a>
   </div>
+</div>
+
+
+
 </div>
 
 <div id="clients-out" class="page-section cut1">
