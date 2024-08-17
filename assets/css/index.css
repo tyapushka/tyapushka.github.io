@@ -182,11 +182,12 @@ footer {
 }
 
 .page-section {
-  margin-top: -1px;
-  color: #615d6d;
-  text-align: center;
-  padding: 4.5rem 0;
-  background: #fff;
+    margin-top: -1px;
+    color: #615d6d;
+    text-align: center;
+    padding: 4.5rem 0;
+    background: #fff;
+    /*width: 100%;*/
 }
 
 .page-section.grey-section {
@@ -303,14 +304,19 @@ footer {
   }
 }
 #cta-out {
-  margin: 0 auto;
-  background: url(/assets/img/buildings.jpg);
-  background-size: cover;
-  background-position: 0 50%;
-  color: #fff;
-  text-shadow: 1px 1px 2px #000;
-  padding: 5rem 0 6rem;
+    margin: 0 auto;
+    /*background: url(/assets/img/buildings_.jpg);*/
+    background: url(/assets/img/fence.jpg);
+    background-size: cover;
+    background-position: 0 50%;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+    padding: 5rem 0 6rem;
+    width: 100vw;
 }
+
+
+
 #clients-subtitle {
   font-size: 1.8rem;
   margin: -2.5rem 0 1.875rem;
@@ -407,3 +413,44 @@ footer {
     max-width: 100%;
   }
 }
+
+.styled-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 25px auto;
+    font-size: 1.2em;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border: 2px solid #05172d; /* ƒобавл€ем синие линии вокруг всей таблицы */
+}
+
+    .styled-table th, .styled-table td {
+        border: 2px solid #05172d; /* —иние линии дл€ всех €чеек */
+        padding: 12px 15px;
+    }
+
+    .styled-table thead tr {
+        background-color: #05172d;
+        color: #ffffff;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 2px solid #05172d; /* —ин€€ лини€ внизу каждой строки */
+    }
+
+        .styled-table tbody tr:hover {
+            background-color: #eaeaea;
+            transition: background-color 0.3s ease;
+        }
+
+
+
+
+
+

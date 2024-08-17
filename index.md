@@ -1,6 +1,6 @@
 ﻿---
 layout: base
-title: "Fatum Ltd"
+title: "AttaliTech | Expert R-Shiny Consulting"
 css:
   - /assets/css/index.css
 ext-css:
@@ -23,44 +23,40 @@ ext-js:
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
-  Свяжитесь с нами
+    Свяжитесь с нами
 </a>
 {: .actionbtn-out :}
 
 </div>
-
 <div id="particles-js"></div>
-
 </div>
-
 <div id="main-sections">
 
 <div id="services-out" class="page-section cut1">
   <div id="services">
-    <div class="section-title">Наши услуги</div>
+    <div class="section-title">Что мы предлагаем</div>
     <div id="services-list">
-      <div class="service">
+        <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
         <div class="service-text">Обязательный и инициативный аудит</div>
-      </div>
-      <div class="service">
+        </div>
+        <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
         <div class="service-text">Консалтинг по вопросам бухучета и налогообложения</div>
-      </div>
-      <div id="services-break"></div>
-      <div class="service">
+        </div>
+        <div id="services-break"></div>
+        <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
         <div class="service-text">Ведение налоговых споров в судах</div>
-      </div>
-      <div class="service">
+        </div>
+        <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
         <div class="service-text">Внедрение IT в области бухучета</div>
-      </div>
+        </div>
     </div>
-
     <a href="/contact" class="actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
-      Свяжитесь с нами
+        Свяжитесь с нами
     </a>
   </div>
 </div>
@@ -69,20 +65,38 @@ ext-js:
 
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
-    <div class="section-title">О нас</div>
+    <div class="section-title">Раскрытие информации</div>
     <div id="aboutus-text">
-     Наша компания была основана в 2021. В следующем году вступила в СРО ААС и начала проводить аудит.
     </div>
+<!-- Таблица из файла aboutus.yml -->
+    <table class="styled-table">
+      <thead>
+        <tr>
+          <th>Наименование</th>
+          <th>Значение</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in site.data.aboutus.aboutus %}
+          <tr>
+            <td class="header-cell">{{ row["заголовок"] }}</td>
+            <td class="value-cell">{{ row["значение"] }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <!-- Конец таблицы -->
   </div>
 </div>
 
 <div class="cut-buffer values-buffer"></div>
 
 <div id="values-out" class="page-section cut2">
-
-<div id="portfolio-out" class="page-section grey-section">
   <div id="values">
-    <div class="section-title">Наши сертификаты</div>
+	  <div class="section-title">Повышение квалификации</div>
+    <div id="values-text">
+    Мы ежегодно проходим курсы обязательного повышения квалификации аудиторов.
+    </div>
     <div id="shinyapps-big">
       {% for value in site.data.values %}
         <div class="shinyapp">   
@@ -101,13 +115,9 @@ ext-js:
       {% endfor %}
     </div>
     <a href="/contact" class="actionbtn">
-      Работайте с нами
+      Свяжитесь с нами
     </a>
   </div>
-</div>
-
-
-
 </div>
 
 <div id="clients-out" class="page-section cut1">
@@ -128,8 +138,7 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-       <div id="auditor-subtitle">...</div>
-   
+    <div class="section-title">В разработке</div>	
   </div>
 </div>
 
@@ -143,8 +152,7 @@ ext-js:
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
         <div class="shinyapp">   
-          {% assign pdf_name = app.img | remove: '.png' | remove: '.jpg' | remove: '.jpeg' | remove: '.gif' | append: '.pdf' %}
-         
+          {% assign pdf_name = app.img | remove: '.png' | remove: '.jpg' | remove: '.jpeg' | remove: '.gif' | append: '.pdf' %}         
           {% if pdf_name contains ".pdf" %}
             <a class="applink" href="/assets/img/screenshots/{{ pdf_name }}" target="_blank">
           {% else %}
@@ -159,10 +167,6 @@ ext-js:
     </div>
   </div>
 </div>
-
-
-
-
 
 <div id="cta-out" class="page-section">
   <div id="cta">

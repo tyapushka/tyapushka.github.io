@@ -1,3 +1,7 @@
+﻿---
+layout: null
+---
+
 /* Assume 1rem=16px */
 
 p a {
@@ -17,7 +21,10 @@ footer a {
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 1.2rem;
+    height: 0.6rem;
+    width: auto;
+    position: relative;
+    top: -0.4rem;
 }
 
 /* Subscription section */
@@ -114,10 +121,10 @@ footer a {
 }
 
 .navbar-custom {
-  border-bottom-color: #05172d;
+  border-bottom-color: {{ site.navbar-col | default: "#EAEAEA" }};
 }
 .navbar-custom.top-nav-short, .navbar-custom.top-nav-expanded {
-  border-bottom-color: #05172d;
+  border-bottom-color: {{ site.navbar-border-col | default: "#DDDDDD" }};
 }
 
 /* Support button in navbar */
@@ -166,3 +173,31 @@ footer a {
 .btn[disabled] {
   cursor: not-allowed;
 }
+
+.contact-info {
+    display: flex;
+    flex-wrap: wrap; /* Элементы будут переходить на следующую строку, если не помещаются */
+    justify-content: space-between; /* Пространство между блоками */
+    gap: 2rem; /* Пространство между элементами */
+    margin-bottom: 2rem;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem; /* Расстояние между иконкой и текстом */
+}
+
+    .contact-item img {
+        width: 1.5rem;
+        height: auto;
+    }
+
+    .contact-item a {
+        text-decoration: none; /* Убираем подчеркивание ссылок */
+        color: #333; /* Цвет текста */
+    }
+
+        .contact-item a:hover {
+            color: #007BFF; /* Цвет текста при наведении */
+        }
