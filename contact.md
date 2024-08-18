@@ -7,7 +7,8 @@ share-title: Фатум | Свяжитесь с нами
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>enableSubmitContact = function(){ document.getElementById("submit_contact").disabled = false; }</script>
 
-Контакты через мейл предпочительны, но Вы можете использовать любую связь.
+<p style="font-size: 1.2rem;">Контакты через мейл предпочительны, но Вы можете использовать любую связь.</p>
+
 
 {::nomarkdown}
 <div class="contact-info">
@@ -21,7 +22,7 @@ share-title: Фатум | Свяжитесь с нами
     </div>
     <div class="contact-item">
         <img src="/assets/img/we/telegram_icon.png" alt="Telegram" />
-        <a href="https://t.me/your_telegram" target="_blank" title="Telegram">Telegram</a>
+        <a href="https://t.me/fatumspb" target="_blank" title="Telegram">Telegram</a>
     </div>
     <div class="contact-item">
         <img src="/assets/img/we/whatsapp_icon.png" alt="WhatsApp" />

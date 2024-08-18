@@ -178,8 +178,9 @@ footer a {
     display: flex;
     flex-wrap: wrap; /* Элементы будут переходить на следующую строку, если не помещаются */
     justify-content: space-between; /* Пространство между блоками */
-    gap: 2rem; /* Пространство между элементами */
+    gap: 1.5rem; /* Пространство между элементами */
     margin-bottom: 2rem;
+    font-size: 1.5rem;
 }
 
 .contact-item {
@@ -188,16 +189,16 @@ footer a {
     gap: 0.5rem; /* Расстояние между иконкой и текстом */
 }
 
-    .contact-item img {
-        width: 1.5rem;
-        height: auto;
-    }
+.contact-item img {
+    width: 1.5rem;
+    height: auto;
+}
 
-    .contact-item a {
-        text-decoration: none; /* Убираем подчеркивание ссылок */
-        color: #333; /* Цвет текста */
-    }
+.contact-item a {
+    text-decoration: none; /* Убираем подчеркивание ссылок */
+    color: #333; /* Цвет текста */
+}
 
-        .contact-item a:hover {
-            color: #007BFF; /* Цвет текста при наведении */
-        }
+.contact-item a:hover {
+    color: #007BFF; /* Цвет текста при наведении */
+}
