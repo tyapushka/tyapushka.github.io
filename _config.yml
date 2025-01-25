@@ -3,13 +3,13 @@ title: Fatum
 author: Fatum Ltd
 
 navbar-links:
-  #Услуги: "/#services"
-  #О нас: "/#aboutus"
-  #Клиент: "/#clients"
-  #Открытые источники: "/#portfolio"
+  Услуги: "/#services"
+  О нас: "/#aboutus"
+  Клиенты: "/#clients"
+  Документы: "/#portfolio"
   Свяжитесь с нами: "/contact"
 
-title-img: /assets/img/attalitech-logo-light.png
+title-img: /assets/img/fatum_logo.png
 
 site-css: "/assets/css/attalitech.css"
 
@@ -33,9 +33,11 @@ url-pretty: "auditspb.com"
 
 footer-img: "/assets/img/footer-bg.png"
 
-#gtag: "G-Y80XD5LXBY"
+gtag: "G-JNZYX4THCS" 
 
-timezone: "America/Toronto"
+#timezone: "America/Toronto"
+timezone: "Europe/Moscow"
+
 markdown: kramdown
 highlighter: rouge
 

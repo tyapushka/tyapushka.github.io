@@ -3,6 +3,30 @@
   url: https://niedax-group.ru/
   #height: 3.125rem
 
+- name: КомТранс Юг
+  img: comtrans.png
+  url: https://ctug.ru/
+  #height: 3.125rem
+
+- name: ПТК Гангут
+  img: gangut.jpg
+  url: https://www.gangut.ru/
+  #height: 3.125rem
+
+- name: Исузу Комтранс
+  img: isuzu.png
+  url: https://isuzu-ct.ru/
+  #height: 3.125rem
+
+- name: НВК Ниагара
+  img: niagara.png
+  url: https://niagara-drinks.ru/
+  #height: 3.125rem
+- title: "еще"
+  img: more.png
+  description: "Перейти к полному списку."
+  url: "https://fedresurs.ru/companies/ba0623b4-515c-4dbb-b138-5a9276599d64/"  # Замени на нужный внешний ресурс
+  height: 3.125rem
 #- name: Johnson & Johnson
 #  img: jnj.png
 #  url: https://www.jnj.com/

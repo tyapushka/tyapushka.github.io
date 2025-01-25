@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\1\\source\\repos\\fatumltd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\attalitech.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\main_info.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\main_info.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\portfolio.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\portfolio.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\values.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\values.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\qualifications.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\qualifications.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\aboutus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\aboutus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\_data\\clients.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\clients.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\contact.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\README.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\payments.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payments.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\old.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:old.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 201,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "payments.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\payments.md",
+              "RelativeDocumentMoniker": "payments.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\payments.md",
+              "RelativeToolTip": "payments.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-24T15:15:04.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-24T15:12:46.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "attalitech.css",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css",
+              "RelativeDocumentMoniker": "assets\\css\\attalitech.css",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css",
+              "RelativeToolTip": "assets\\css\\attalitech.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T12:18:55.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main_info.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\main_info.yml",
+              "RelativeDocumentMoniker": "_data\\main_info.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\main_info.yml",
+              "RelativeToolTip": "_data\\main_info.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-17T08:16:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "old.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\old.md",
+              "RelativeDocumentMoniker": "old.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\old.md",
+              "RelativeToolTip": "old.md",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAowK4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-16T15:43:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.css",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\index.css",
+              "RelativeDocumentMoniker": "assets\\css\\index.css",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\index.css",
+              "RelativeToolTip": "assets\\css\\index.css",
+              "ViewState": "AQIAALEBAAAAAAAAAAAAAMMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T08:40:29.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.scss",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\main.scss",
+              "RelativeDocumentMoniker": "assets\\css\\main.scss",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\main.scss",
+              "RelativeToolTip": "assets\\css\\main.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-08-16T07:38:58.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aboutus.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\aboutus.yml",
+              "RelativeDocumentMoniker": "_data\\aboutus.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\aboutus.yml",
+              "RelativeToolTip": "_data\\aboutus.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-15T16:13:16.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "values.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\values.yml",
+              "RelativeDocumentMoniker": "_data\\values.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\values.yml",
+              "RelativeToolTip": "_data\\values.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-14T13:56:50.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "qualifications.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\qualifications.yml",
+              "RelativeDocumentMoniker": "_data\\qualifications.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\qualifications.yml",
+              "RelativeToolTip": "_data\\qualifications.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-14T13:48:41.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "contact.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\contact.md",
+              "RelativeDocumentMoniker": "contact.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\contact.md",
+              "RelativeToolTip": "contact.md",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-13T15:25:34.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clients.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\clients.yml",
+              "RelativeDocumentMoniker": "_data\\clients.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\clients.yml",
+              "RelativeToolTip": "_data\\clients.yml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-13T08:16:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
+              "RelativeDocumentMoniker": "index.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
+              "RelativeToolTip": "index.md",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-11T15:42:58.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "portfolio.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\portfolio.yml",
+              "RelativeDocumentMoniker": "_data\\portfolio.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\portfolio.yml",
+              "RelativeToolTip": "_data\\portfolio.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-11T13:11:34.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_config.yml",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-11T12:25:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
