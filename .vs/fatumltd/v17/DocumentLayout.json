@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Users\\1\\source\\repos\\fatumltd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\assets\\data\\chart-data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\data\\chart-data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\attalitech.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Users\\1\\source\\repos\\fatumltd\\payments.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:payments.md||{B3984FB3-6A50-488A-A8A5-1EA6929ADF43}"
     },
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +86,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "index.md",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
+              "RelativeDocumentMoniker": "index.md",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
+              "RelativeToolTip": "index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-26T14:46:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chart-data.json",
+              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\data\\chart-data.json",
+              "RelativeDocumentMoniker": "assets\\data\\chart-data.json",
+              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\data\\chart-data.json",
+              "RelativeToolTip": "assets\\data\\chart-data.json",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T11:23:52.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "payments.md",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\payments.md",
               "RelativeDocumentMoniker": "payments.md",
@@ -94,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "README.md",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -106,20 +135,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "attalitech.css",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css",
               "RelativeDocumentMoniker": "assets\\css\\attalitech.css",
               "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\attalitech.css",
               "RelativeToolTip": "assets\\css\\attalitech.css",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-17T12:18:55.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T12:18:55.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "main_info.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\main_info.yml",
               "RelativeDocumentMoniker": "_data\\main_info.yml",
@@ -127,12 +155,11 @@
               "RelativeToolTip": "_data\\main_info.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-17T08:16:16.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T08:16:16.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "old.md",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\old.md",
               "RelativeDocumentMoniker": "old.md",
@@ -144,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "index.css",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\index.css",
               "RelativeDocumentMoniker": "assets\\css\\index.css",
@@ -156,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "main.scss",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\assets\\css\\main.scss",
               "RelativeDocumentMoniker": "assets\\css\\main.scss",
@@ -168,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "aboutus.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\aboutus.yml",
               "RelativeDocumentMoniker": "_data\\aboutus.yml",
@@ -180,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "values.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\values.yml",
               "RelativeDocumentMoniker": "_data\\values.yml",
@@ -192,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "qualifications.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\qualifications.yml",
               "RelativeDocumentMoniker": "_data\\qualifications.yml",
@@ -204,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "contact.md",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\contact.md",
               "RelativeDocumentMoniker": "contact.md",
@@ -216,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "clients.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\clients.yml",
               "RelativeDocumentMoniker": "_data\\clients.yml",
@@ -228,18 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "index.md",
-              "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
-              "RelativeDocumentMoniker": "index.md",
-              "ToolTip": "E:\\Users\\1\\source\\repos\\fatumltd\\index.md",
-              "RelativeToolTip": "index.md",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-11T15:42:58.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "portfolio.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_data\\portfolio.yml",
               "RelativeDocumentMoniker": "_data\\portfolio.yml",
@@ -251,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_config.yml",
               "DocumentMoniker": "E:\\Users\\1\\source\\repos\\fatumltd\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
@@ -259,8 +275,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAACYAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-11T12:25:53.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T12:25:53.609Z"
             },
             {
               "$type": "Bookmark",

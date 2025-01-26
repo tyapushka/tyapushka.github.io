@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Фатум {#title}
+# Фатум (СПб) {#title}
 
 ## Аудит и консалтинг {#subtitle}
 
@@ -138,13 +138,85 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">В разработке</div>	
+    <div class="section-title">Обязательный аудит в 2024 г.</div>
+    <!-- Контейнер для графика -->
+    <canvas id="monthChart" width="400" height="200"></canvas>
+    <!-- Скрипт для построения графика -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      // Загружаем данные из JSON
+      const chartData = {
+        "chartData": [
+          { "month_name": "Январь", "month_number": 1, "count": 31 },
+          { "month_name": "Февраль", "month_number": 2, "count": 1000 },
+          { "month_name": "Март", "month_number": 3, "count": 17039 },
+          { "month_name": "Апрель", "month_number": 4, "count": 5958 },
+          { "month_name": "Май", "month_number": 5, "count": 1070 },
+          { "month_name": "Июнь", "month_number": 6, "count": 991 },
+          { "month_name": "Июль", "month_number": 7, "count": 952 },
+          { "month_name": "Август", "month_number": 8, "count": 361 },
+          { "month_name": "Сентябрь", "month_number": 9, "count": 312 },
+          { "month_name": "Октябрь", "month_number": 10, "count": 298 },
+          { "month_name": "Ноябрь", "month_number": 11, "count": 298 },
+          { "month_name": "Декабрь", "month_number": 12, "count": 1011 }
+        ]
+      };
+      // Извлекаем данные для графика
+      const labels = chartData.chartData.map(item => item.month_name);
+      const data = chartData.chartData.map(item => item.count);
+      // Конфигурация графика
+      const ctx = document.getElementById('monthChart').getContext('2d');
+      const monthChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Количество проаудированных фирм по данным ГИРБО',
+            data: data,
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            borderColor: 'rgba(75, 192, 192, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              position: 'top'
+            },
+            tooltip: {
+              callbacks: {
+                label: function(context) {
+                  return `${context.label}: ${context.raw}`;
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Месяц'
+              }
+            },
+            y: {
+              beginAtZero: true,
+              title: {
+                display: true,
+                text: 'Количество'
+              }
+            }
+          }
+        }
+      });
+    </script>
   </div>
-</div>
+</div> 
 
 <div class="cut-buffer portfolio-buffer"></div>
 
 <div id="portfolio-out" class="page-section grey-section">
+
   <div id="portfolio">
     <div class="section-title">
       Документы

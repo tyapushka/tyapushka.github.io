@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
-    "\\assets\\img",
-    "\\_data"
+    "\\assets\\data",
+    "\\assets\\js",
+    "\\_data",
+    "\\_includes"
   ],
-  "SelectedNode": "\\assets\\css\\attalitech.css",
   "PreviewInSolutionExplorer": false
 }
