@@ -1,0 +1,28 @@
+[ 
+ 
+ 
+{ 
+"title"    : "Payment Options", 
+"desc"     : "Payment Options", 
+"category" : "page", 
+"url"      : "/payments.html", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Свяжитесь с нами", 
+"desc"     : "Свяжитесь с нами", 
+"category" : "page", 
+"url"      : "/contact.html", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "AttaliTech | Expert R-Shiny Consulting", 
+"desc"     : "AttaliTech | Expert R-Shiny Consulting", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]
