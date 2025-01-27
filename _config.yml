@@ -1,0 +1,70 @@
+﻿remote_theme: daattali/beautiful-jekyll
+title: Fatum
+author: Fatum Ltd
+
+navbar-links:
+  Услуги: "/#services"
+  О нас: "/#aboutus"
+  Клиенты: "/#clients"
+  Документы: "/#portfolio"
+  Свяжитесь с нами: "/contact"
+
+title-img: /assets/img/fatum_logo.png
+
+site-css: "/assets/css/attalitech.css"
+
+keywords: "audit, consultant, consultant, audit apps, dax, аудит, консалтинг, бухгалтерия"
+
+mobile-theme-col: "#0085A1"
+navbar-col: "#05172d"
+navbar-text-col: "#fff"
+navbar-border-col: "#05172d"
+
+social-network-links:
+  email: "info@auditspb.com"
+  github: ""
+  #twitter: daattali
+  #calendly: "attalitech/meeting"
+  #youtube: "@daattali?sub_confirmation=1"
+  #patreon: DeanAttali
+  telephone: +79219342436
+
+url-pretty: "auditspb.com"
+
+footer-img: "/assets/img/footer-bg.png"
+
+gtag: "G-JNZYX4THCS" 
+
+#timezone: "America/Toronto"
+timezone: "Europe/Moscow"
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      #footer-extra: custom_footer.html
+      nav-short: true
+      share-description: ""
+      share-img: "/assets/img/attalitech.png"
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189

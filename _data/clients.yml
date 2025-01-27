@@ -1,0 +1,95 @@
+﻿- name: НИДАКС ХОЛДИНГ РУС
+  img: niedax-group-logo-138-40.png
+  url: https://niedax-group.ru/
+  #height: 3.125rem
+
+- name: КомТранс Юг
+  img: comtrans.png
+  url: https://ctug.ru/
+  #height: 3.125rem
+
+- name: ПТК Гангут
+  img: gangut.jpg
+  url: https://www.gangut.ru/
+  #height: 3.125rem
+
+- name: Исузу Комтранс
+  img: isuzu.png
+  url: https://isuzu-ct.ru/
+  #height: 3.125rem
+
+- name: НВК Ниагара
+  img: niagara.png
+  url: https://niagara-drinks.ru/
+  #height: 3.125rem
+- title: "еще"
+  img: more.png
+  description: "Перейти к полному списку."
+  url: "https://fedresurs.ru/companies/ba0623b4-515c-4dbb-b138-5a9276599d64/"  # Замени на нужный внешний ресурс
+  height: 3.125rem
+#- name: Johnson & Johnson
+#  img: jnj.png
+#  url: https://www.jnj.com/
+#  height: 3.125rem
+
+#- name: Stanford University 
+#  img: stanforduni.png
+#  url: https://www.stanford.edu/
+#- name: Domino Data Lab
+#  img: domino.png
+#  url: https://www.dominodatalab.com/
+#- name: Lieberman Research Worldwide
+#  img: lrw.png
+#  url: https://lrwonline.com/
+#- name: Roche
+#  img: roche.png
+#  url: https://www.roche.com/
+#- name: World Health Organization
+#  img: who.png
+#  url: https://www.who.int/
+#- name: Occam Industries
+#  img: occam.png
+#  url: https://www.occam-apps.com/
+#- name: Android Authority
+#  img: androidauthority.png
+#  url: https://www.androidauthority.com/
+#- name: University of Zurich
+#  img: uofzurich.png
+#  url: https://www.uzh.ch/
+#- name: Plotly
+#  img: plotly.png
+#  url: https://plotly.com/
+#- name: DF/Net Research
+#  img: dfnet.png
+#  url: https://www.dfnetresearch.com/
+#- name: "University of California, Berkeley"
+#  img: berkeley.png
+#  url: https://www.berkeley.edu/
+#- name: "4most Credit Risk Analytics"
+#  img: 4most.png
+#  url: https://www.4-most.co.uk/
+#- name: Comet ML
+#  img: comet.png
+#  url: https://www.comet.com/
+#- name: Imperial College London
+#  img: ICL.png
+#  url: https://www.imperial.ac.uk/
+#- name: Dartmouth College
+#  img: dartmouth.png
+#  url: https://dartmouth.edu/
+#- name: ResourceX Priority Based Budgeting
+#  img: resourcex.png
+#  url: https://www.resourcex.net/
+#- name: University of British Columbia
+#  img: UBC.png
+#  url: https://www.ubc.ca/
+#- name: BC Stats (BC Government)
+#  img: BCStats.png
+#  url: https://www.bcstats.gov.bc.ca/
+#- name: University of Oregon
+#  img: uoregon.png
+#  url: https://uoregon.edu/
+#- name: Certara
+#  img: certara.png
+#  url: https://www.certara.com/
+#  height: 3.125rem

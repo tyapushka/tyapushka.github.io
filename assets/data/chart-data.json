@@ -1,0 +1,64 @@
+{
+  "chartData": [
+    {
+      "month_name": "Январь",
+      "month_number": 1,
+      "count": 31
+    },
+    {
+      "month_name": "Февраль",
+      "month_number": 2,
+      "count": 1000
+    },
+    {
+      "month_name": "Март",
+      "month_number": 3,
+      "count": 17039
+    },
+    {
+      "month_name": "Апрель",
+      "month_number": 4,
+      "count": 5958
+    },
+    {
+      "month_name": "Май",
+      "month_number": 5,
+      "count": 1070
+    },
+    {
+      "month_name": "Июнь",
+      "month_number": 6,
+      "count": 991
+    },
+    {
+      "month_name": "Июль",
+      "month_number": 7,
+      "count": 952
+    },
+    {
+      "month_name": "Август",
+      "month_number": 8,
+      "count": 361
+    },
+    {
+      "month_name": "Сентябрь",
+      "month_number": 9,
+      "count": 312
+    },
+    {
+      "month_name": "Октябрь",
+      "month_number": 10,
+      "count": 298
+    },
+    {
+      "month_name": "Ноябрь",
+      "month_number": 11,
+      "count": 298
+    },
+    {
+      "month_name": "Декабрь",
+      "month_number": 12,
+      "count": 1011
+    }
+  ]
+}
