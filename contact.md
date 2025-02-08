@@ -11,8 +11,12 @@ share-title: Фатум | Свяжитесь с нами
 
 
 {::nomarkdown}
-<div class="contact-info">
+<div class="contact-info"> 
     <div class="contact-item">
+        <img src="/assets/img/we/mail_icon.png" alt="Email" />
+        <a href="mailto:auditgrata@ya.ru" title="Email">auditgrata@ya.ru</a>
+    </div>
+   <div class="contact-item">
         <img src="/assets/img/we/mail_icon.png" alt="Email" />
         <a href="mailto:info@auditspb.com" title="Email">info@auditspb.com</a>
     </div>
